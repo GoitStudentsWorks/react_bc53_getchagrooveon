@@ -42,6 +42,7 @@ export const App = () => {
       {!isLoading ? (
         <Suspense fallback={<Loader />}>
           <Routes>
+            <Route path="/" element={<Navigate to="/home" />} />
             <Route path="/" element={<PublicRoutes />}>
               <Route path="/registration" element={<Registration />} />
               <Route path="/login" element={<Login />} />
