@@ -2,7 +2,7 @@
   "name": "Money Guard application",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://getchagrooveon.github.io/money-guard/",
+  "homepage": "https://GoitStudentsWorks.github.io/react_bc53_getchagrooveon/",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
