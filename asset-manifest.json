@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_bc53_getchagrooveon/static/css/main.28b35ee7.css",
-    "main.js": "/react_bc53_getchagrooveon/static/js/main.e8dd2748.js",
+    "main.js": "/react_bc53_getchagrooveon/static/js/main.bdcb6fa2.js",
     "static/css/193.06046d66.chunk.css": "/react_bc53_getchagrooveon/static/css/193.06046d66.chunk.css",
     "static/js/193.2a8b43aa.chunk.js": "/react_bc53_getchagrooveon/static/js/193.2a8b43aa.chunk.js",
     "static/css/709.e4e4bdc6.chunk.css": "/react_bc53_getchagrooveon/static/css/709.e4e4bdc6.chunk.css",
@@ -32,7 +32,7 @@
     "static/media/golden-coins-background-right-tablet.png": "/react_bc53_getchagrooveon/static/media/golden-coins-background-right-tablet.795bf9fc5c27e868c5dd.png",
     "index.html": "/react_bc53_getchagrooveon/index.html",
     "main.28b35ee7.css.map": "/react_bc53_getchagrooveon/static/css/main.28b35ee7.css.map",
-    "main.e8dd2748.js.map": "/react_bc53_getchagrooveon/static/js/main.e8dd2748.js.map",
+    "main.bdcb6fa2.js.map": "/react_bc53_getchagrooveon/static/js/main.bdcb6fa2.js.map",
     "193.06046d66.chunk.css.map": "/react_bc53_getchagrooveon/static/css/193.06046d66.chunk.css.map",
     "193.2a8b43aa.chunk.js.map": "/react_bc53_getchagrooveon/static/js/193.2a8b43aa.chunk.js.map",
     "709.e4e4bdc6.chunk.css.map": "/react_bc53_getchagrooveon/static/css/709.e4e4bdc6.chunk.css.map",
@@ -40,6 +40,6 @@
   },
   "entrypoints": [
     "static/css/main.28b35ee7.css",
-    "static/js/main.e8dd2748.js"
+    "static/js/main.bdcb6fa2.js"
   ]
 }
