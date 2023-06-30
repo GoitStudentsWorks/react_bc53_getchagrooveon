@@ -51,6 +51,7 @@ export const App = () => {
               <Route path="statistics" element={<Statistics />} />
               <Route path="currency" element={<Currency />} />
             </Route>
+            <Route path="/" element={<Navigate to="/home" />} />
             <Route path="*" element={<Navigate to="/home" />} />
           </Routes>
         </Suspense>
